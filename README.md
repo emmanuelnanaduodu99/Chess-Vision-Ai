@@ -2,7 +2,7 @@
 
 #### <ins>Chess computer vision project that converts physical chessboard positions into digital images and recommend the next best move! </ins>
 
-![first_photo](https://github.com/patrick25076/chess-vision-ai/assets/113384811/7692f786-10e5-40da-a14d-d4941b6412e1)
+![first_photo](https://github.com/emmanuelnanaduodu99/chess-vision-ai/assets/113384811/7692f786-10e5-40da-a14d-d4941b6412e1)
 
 ## Table of Contents
 
@@ -214,7 +214,7 @@ Now that you've configured the project and set the necessary paths, it's time to
    
 ## Contact
 
-- Neicu Patrick
-- GitHub: [Profile](https://github.com/yourusername](https://github.com/patrick25076))
-- Email: patrickneicu2006@gmail.com
-- LinkedIn: [Profile](https://www.linkedin.com/in/patrick-neicu-4bb567263/)
+- Emmanuel Duodu
+- GitHub: [Profile]([https://github.com/emmanuelnanaduodu99])
+- Email: emmanuelnanaduodu@gmail.com
+- LinkedIn: [Profile](https://www.linkedin.com/)
