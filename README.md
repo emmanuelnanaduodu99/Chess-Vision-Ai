@@ -218,6 +218,6 @@ Now that you've configured the project and set the necessary paths, it's time to
 ## Contact
 
 - Emmanuel Duodu
-- GitHub: [Profile]([https://github.com/emmanuelnanaduodu99])
+- GitHub: [Profile](https://github.com/yourusername](https://github.com/emmauenanaduodu99))
 - Email: emmanuelnanaduodu@gmail.com
-- LinkedIn: [Profile](https://www.linkedin.com/)
+- LinkedIn: [Profile](https://www.linkedin.com/emmanuelduodu)
