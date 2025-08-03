@@ -2,7 +2,8 @@
 
 #### <ins>Chess computer vision project that converts physical chessboard positions into digital images and recommend the next best move! </ins>
 
-![first_photo](https://github.com/emmanuelnanaduodu99/chess-vision-ai/assets/113384811/7692f786-10e5-40da-a14d-d4941b6412e1)
+![first_photo](https://github.com/<img width="1920" height="1080" alt="first_photo" src="https://github.com/user-attachments/assets/0725a828-b3c9-429a-9e63-d4a15e2761b5" />
+/chess-vision-ai/assets/113384811/7692f786-10e5-40da-a14d-d4941b6412e1)
 
 ## Table of Contents
 
